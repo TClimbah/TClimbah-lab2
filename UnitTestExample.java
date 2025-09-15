@@ -4,9 +4,9 @@ import java.io.*;
 
 public class UnitTestExample {
 
-	private Integer n; // not used, just showing a style issue
+	private Integer num; // not used, just showing a style issue
 	private String planet = "Earth";
-	private String satellite = "moon";
+	private String satellite = "Moon";
 
 	@Test
 	public void test1() {
@@ -54,62 +54,3 @@ public class UnitTestExample {
 	// no main method
 
 }
-Chat
-
-New Conversation
-
-🤓 Explain a complex thing
-
-Explain Artificial Intelligence so that I can explain it to my six-year-old child.
-
-
-🧠 Get suggestions and create new ideas
-
-Please give me the best 10 travel ideas around the world
-
-
-💭 Translate, summarize, fix grammar and more…
-
-Translate "I love you" French
-
-
-GPT-4o Mini
-Hello, how can I help you today?
-AITOPIA
-coin image
-10
-Upgrade
-
-
-
-
-mport org.junit.Test;
-import static org.junit.Assert.assertEquals;
-import java.io.*;
-
-public class UnitTestExample {
-
-	private Integer n; // not used, just showing a style issue
-	private String planet = "Earth";
-	private String satellite = "moon";
-
-	@Test
-	public void test1() {
-		String expectedName = "Earth";
-		String resultName = this.planet; // or would be something a method could return, etc
-		assertEquals(expectedName, resultName);
-	}
-
-
-
-
-
-Powered by AITOPIA 
-Chat
-Ask
-Search
-Write
-Image
-ChatFile
-Vision
-Full Page
