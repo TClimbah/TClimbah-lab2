@@ -1,13 +1,11 @@
-1)
+
 
 	Trying to find what line has bugged code with **Tracing**.
 
-2)
 
 	Test Driven Development is where you writes test cases before you start writing your code. This is because you are not bias about your code. 
 	It is also importantly has you think about the code you need to provide
 
-3)
 
 	INPUT(age)	OUTPUT
 	0		0.5
@@ -19,4 +17,3 @@
 	120		0.75
 	121		ERROR
 
-4)
